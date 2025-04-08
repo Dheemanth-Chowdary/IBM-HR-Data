@@ -1,7 +1,3 @@
-Sure! Here's a rephrased version of your **HR Analytics** project in a more polished and professional tone:
-
----
-
 # HR Analytics
 
 ## Table of Contents  
